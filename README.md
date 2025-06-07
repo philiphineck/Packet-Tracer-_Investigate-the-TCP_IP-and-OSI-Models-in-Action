@@ -99,3 +99,13 @@ This simulation demonstrated a web session between a client and a server on a Lo
 
 * Based on the information inspected during the Packet Tracer capture, what port number is the Web Server listening on for the web request? (Hint: Look at Layer 4 in the OSI Model tab for port information ).
 * What port is the Web Server listening on for a DNS request?
+## Author
+
+**Philiphine Cheptanui**
+* [LinkedIn Profile](https://www.linkedin.com/in/philiphinecheptanui)
+* [GitHub Profile](https://github.com/Philiphineck)
+
+---
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
