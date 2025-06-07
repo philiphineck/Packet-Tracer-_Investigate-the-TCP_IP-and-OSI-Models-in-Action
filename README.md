@@ -1,0 +1,2 @@
+# Packet-Tracer-_Investigate-the-TCP_IP-and-OSI-Models-in-Action
+This network simulation in Packet Tracer activity comprehensively explores network protocols in great detail. It analyses HTTP web traffic by observing how data is encapsulated and transmitted throughout the OSI Model layers. It explores port numbers, IP addresses, and MAC addresses, DNS, ARP, and TCP protocols in web communication process.
